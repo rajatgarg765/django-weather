@@ -1,0 +1,1 @@
+web: gunicorn Icoder.wsgi --log-file -
