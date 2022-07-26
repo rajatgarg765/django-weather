@@ -1,1 +1,1 @@
-web: gunicorn Icoder.wsgi --log-file -
+web: gunicorn weatherapp.wsgi --log-file -
